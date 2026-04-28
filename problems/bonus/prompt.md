@@ -16,7 +16,6 @@ This bonus mission celebrates the courageous few who dare to push their models b
 
 ```bash
 cat ~/.ollama/id_ed25519.pub
-```
 
 1. Build your masterpiece (but now with a public name!)
 Give your model a proper title and your username for global fame:
